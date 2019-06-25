@@ -1,0 +1,2 @@
+
+Here, the code is as it is like in original GANai v3 Only the "create_model_gen_train" function is changed to adjust the loss funtion of the LatentMAP.
